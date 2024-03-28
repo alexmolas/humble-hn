@@ -3,6 +3,9 @@ humble-hn
 
 `humble-hn` is a Chrome extension that hides the number of votes and comments of stories, and the karma of users on Hacker News. The objective of this extension is to remove the influence of these numbers on the perception of the content.
 
+![Example GIF](docs/example.gif)
+
+
 # How to use the extension?
 
 I'm still waiting for Google to approve my submission to the Chrome Store, but for the moment you can just install the extension using this repo.
